@@ -1,0 +1,72 @@
+div{
+margin-bottom : 50px;
+
+}
+.pic{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+h1{
+    text-align : center;
+    font-size: 50px;
+    
+    
+    }
+.left{ float: left;width:50%; }
+.right{ float: right;width:50%; }
+div.grid1 {
+    display: grid;
+    border: 5px solid black;
+    
+    padding: 70px;
+   
+    width: 500px;
+    background-image: url(wood.png)
+  }
+  div.grid2 {
+    display: grid;
+    border: 5px solid black;
+    padding: 70px;
+   
+    width: 500px;
+    background-image: url(paper_texture.png)
+  }
+  div.grid3 {
+    display: grid;
+    border: 5px solid black;
+
+    padding: 70px;
+   
+    width: 500px;
+    background-image: url(wood2.png)
+  }
+  div.text1 {
+    display: grid;
+    border: 5px solid black;
+
+    padding: 70px;
+   
+    width: 500px;
+    background-image: url(wood.png)
+  }
+  div.text2 {
+    display: grid;
+    border: 5px solid black;
+
+    padding: 70px;
+   
+    width: 500px;
+    background-image: url(paper_texture.png)
+  }
+  div.text3 {
+    display: grid;
+    border: 5px solid black;
+
+    padding: 70px;
+   
+    width: 500px;
+    background-image: url(wood2.png)
+  }
