@@ -47,9 +47,9 @@ div.grid1 {
   padding-right: 10px;
   max-width: 300px;
   min-width: 100px;
-
+  
   background-image: url(wood.png)
-
+  
   }
   div.grid2 {
     display: grid;
@@ -113,11 +113,6 @@ div.grid1 {
     margin-top: auto;
     margin-bottom: auto;
   }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   .code{
     width: auto;
     height: 120px;
@@ -130,6 +125,3 @@ div.grid1 {
     margin-left: 180px;
     font-family: Times;
   }
-=======
-  
->>>>>>> parent of 696887c... final
