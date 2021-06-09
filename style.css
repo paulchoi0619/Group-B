@@ -86,7 +86,7 @@ div.grid1 {
   }
   div.text2 {
     display: grid;
-    border: 5px solid white;
+    border: 5px solid black;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -129,16 +129,3 @@ div.grid1 {
     margin-left: 180px;
     font-family: Times;
   }
-  /*hello*/
-=======
-  
->>>>>>> parent of 696887c (final)
-=======
-  
->>>>>>> parent of 696887c (final)
-=======
-  
->>>>>>> parent of 696887c... final
-=======
-  
->>>>>>> parent of 696887c... final
