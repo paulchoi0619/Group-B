@@ -47,9 +47,9 @@ div.grid1 {
   padding-right: 10px;
   max-width: 300px;
   min-width: 100px;
-  
+
   background-image: url(wood.png)
-  
+
   }
   div.grid2 {
     display: grid;
@@ -125,3 +125,4 @@ div.grid1 {
     margin-left: 180px;
     font-family: Times;
   }
+  /*hello*/
