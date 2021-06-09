@@ -113,4 +113,15 @@ div.grid1 {
     margin-top: auto;
     margin-bottom: auto;
   }
-  
+  .code{
+    width: auto;
+    height: 120px;
+  }
+  .code2{
+    width: auto;
+    height: 80px;
+  }
+  .textlink{
+    margin-left: 180px;
+    font-family: Times;
+  }
