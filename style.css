@@ -40,16 +40,17 @@ a{
 .right{ float: right;width:50%; }
 div.grid1 {
   display: grid;
-  border: 5px solid black;
+  border: 5px;
+  border-radius: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
   padding-right: 10px;
   max-width: 300px;
   min-width: 100px;
-  
+
   background-image: url(wood.png)
-  
+
   }
   div.grid2 {
     display: grid;
@@ -122,6 +123,7 @@ div.grid1 {
     height: 80px;
   }
   .textlink{
+    color: grey;
     margin-left: 180px;
     font-family: Times;
   }
